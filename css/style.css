@@ -343,11 +343,11 @@ select.list-dt:focus {
     top: 3.4em;
     right: 2.7em;
     /* width: 10px; */
-    font-size: 14px;
+    font-size: 14px !important;
     border: 0;
-    color: #B4B0B0;
-    opacity: 0.6;
-    font-weight: normal;
+    color: #B4B0B0 !important;
+    opacity: 0.6 !important;
+    font-weight: normal !important;
 }
 .inputimgg{
     position: absolute;
